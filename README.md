@@ -1,5 +1,5 @@
 # PowerBi_dashboard_project
-<p>This is a power bi end to end project</p><br>
+<p>This is a power bi end to end project</p>
 <ul>
     <li>Built an interactive Sales Dashboard using Power BI.</li>
     <li>Analyzed sales data from CSV datasets.</li>
