@@ -1,4 +1,8 @@
 # PowerBi_dashboard_project
-Developed interactive dashboard and data visualization
-<br>
-Analyzed sales data from CSV files using Python.
+<ul>
+    <li>Built an interactive Sales Dashboard using Power BI.</li>
+    <li>Analyzed sales data from CSV datasets.</li>
+    <li>Created dynamic charts, KPIs, and slicers.</li>
+    <li>Cleaned and transformed data using Power Query.</li>
+    <li>Identified sales trends and top-performing products.</li>
+</ul>
